@@ -2457,11 +2457,11 @@ PrefabInstance:
       objectReference: {fileID: 1808616190}
     - target: {fileID: 171364694463999109, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_text
-      value: G
+      value: F
       objectReference: {fileID: 0}
     - target: {fileID: 171364694463999111, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Name
-      value: G_Button_text
+      value: F_Button_text
       objectReference: {fileID: 0}
     - target: {fileID: 171364695957805296, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Pivot.x
@@ -2605,7 +2605,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 171364695957805299, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Name
-      value: G_Button
+      value: F_Button
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
@@ -5608,11 +5608,11 @@ PrefabInstance:
       objectReference: {fileID: 1808616190}
     - target: {fileID: 171364694463999109, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_text
-      value: D
+      value: "\xC7"
       objectReference: {fileID: 0}
     - target: {fileID: 171364694463999111, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Name
-      value: D_Button_text
+      value: "\xC7_Button_text"
       objectReference: {fileID: 0}
     - target: {fileID: 171364695957805296, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Pivot.x
@@ -5756,7 +5756,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 171364695957805299, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Name
-      value: D_Button
+      value: "\xC7_Button"
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
@@ -6520,11 +6520,11 @@ PrefabInstance:
       objectReference: {fileID: 1808616190}
     - target: {fileID: 171364694463999109, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_text
-      value: E
+      value: D
       objectReference: {fileID: 0}
     - target: {fileID: 171364694463999111, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Name
-      value: E_Button_text
+      value: D_Button_text
       objectReference: {fileID: 0}
     - target: {fileID: 171364695957805296, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Pivot.x
@@ -6668,7 +6668,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 171364695957805299, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Name
-      value: E_Button
+      value: D_Button
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
@@ -6778,11 +6778,11 @@ PrefabInstance:
       objectReference: {fileID: 1808616190}
     - target: {fileID: 171364694463999109, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_text
-      value: "\u011E"
+      value: G
       objectReference: {fileID: 0}
     - target: {fileID: 171364694463999111, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Name
-      value: "\u011E_Button_text"
+      value: G_Button_text
       objectReference: {fileID: 0}
     - target: {fileID: 171364695957805296, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Pivot.x
@@ -6926,7 +6926,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 171364695957805299, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Name
-      value: "\u011E_Button"
+      value: G_Button
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
@@ -8541,11 +8541,11 @@ PrefabInstance:
       objectReference: {fileID: 1808616190}
     - target: {fileID: 171364694463999109, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_text
-      value: F
+      value: E
       objectReference: {fileID: 0}
     - target: {fileID: 171364694463999111, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Name
-      value: F_Button_text
+      value: E_Button_text
       objectReference: {fileID: 0}
     - target: {fileID: 171364695957805296, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Pivot.x
@@ -8689,7 +8689,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 171364695957805299, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
       propertyPath: m_Name
-      value: F_Button
+      value: E_Button
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4101a6021b65a42458c4c66d0163e36a, type: 3}
